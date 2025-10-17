@@ -1,0 +1,24 @@
+{
+  "name": "ai-essay-middleware",
+  "version": "1.0.0",
+  "description": "AI essay writer frontend + middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigmaAPALEKAR/ai-essay-middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigmaAPALEKAR/ai-essay-middleware/issues"
+  },
+  "homepage": "https://github.com/sigmaAPALEKAR/ai-essay-middleware#readme",
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
