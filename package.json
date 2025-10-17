@@ -4,7 +4,7 @@
   "description": "AI essay writer frontend + middleware",
   "main": "index.js",
   "scripts": {
-    "start": "serve public",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/sigmaAPALEKAR/ai-essay-middleware#readme",
   "dependencies": {
+    "express": "^5.1.0",
     "serve": "^14.2.5"
   }
 }
